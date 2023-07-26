@@ -1,4 +1,13 @@
-<style>
+
+*{
+
+    background-color: aqua;
+
+
+}
+
+
+
     h1 {
         color:yellow;
         background:green;
@@ -13,7 +22,5 @@
     button {
         background: chartreuse;
         border-color: black;
-
-
 
     }
